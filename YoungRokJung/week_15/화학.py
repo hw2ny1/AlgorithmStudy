@@ -7,28 +7,39 @@ input = sys.stdin.readline
 
 while True :
     words = input().rstrip()
+    # print(len(words))
     if not words : break
 
     temp = ''
     dic = defaultdict(int)
     state = 0
     for i in range(len(words)) :
+        # print(i,dic,words[i])
         if words[i] == '(' :
+            if temp :
+                dic[temp] += 1
+                temp = ''
             st = []
             state = 1
             continue
 
         elif words[i] == ')' :
-            print(st)
-            for w in st :
-                print(dic[w[0]],w[1]*int(words[i+1]))
-                dic[w[0]] += w[1]*int(words[i+1])
+            if temp :
+                st.append((temp,1))
+            # print(st)
+            if i+1 < len(words) and words[i+1].isdecimal() :
+                for w in st :
+                    dic[w[0]] += w[1]*int(words[i+1])
+            else :
+                for w in st :
+                    dic[w[0]] += w[1]
             st.clear()
             temp = ''
             state = 0
             continue
 
         if state : # 괄호 열려있을 때
+            # print(st)
             if words[i].isupper() :
                 if temp :
                     st.append((temp,1))
@@ -54,7 +65,6 @@ while True :
                 temp = ''
 
         else :
-
             if words[i].isupper() :
                 if temp :
                     if dic[temp] :
