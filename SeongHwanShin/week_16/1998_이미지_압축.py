@@ -17,7 +17,7 @@ input = sys.stdin.readline
 """
 
 
-def slice(x, y, n, m):
+def slice(x, y, n):
     global ans1
     ans1 += 1
     c = graph[x][y]
@@ -26,10 +26,10 @@ def slice(x, y, n, m):
     for i in range(x, x+n):
         for j in range(y, y+n):
             if graph[i][j] != c:
-                c1, n1 = slice(x, y, n // 2,4*m-2)
-                c2, n2 = slice(x, y + n // 2, n // 2,4*m-1)
-                c3, n3 = slice(x + n // 2, y, n // 2,4*m)
-                c4, n4 = slice(x + n // 2, y + n // 2, n // 2,4*m+1)
+                c1, n1 = slice(x, y, n // 2)
+                c2, n2 = slice(x, y + n // 2, n // 2)
+                c3, n3 = slice(x + n // 2, y, n // 2)
+                c4, n4 = slice(x + n // 2, y + n // 2, n // 2)
 
                 temp = 'R' + c1 + c2 + c3 + c4
                 num = 1 + n1 + n2 + n3 + n4
@@ -67,6 +67,6 @@ visited = set()
 save = defaultdict(int)
 
 ans1 = 0
-result, num = slice(0,0,K,1)
+result, num = slice(0,0,K)
 
 print(ans1, num)
