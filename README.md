@@ -65,20 +65,8 @@
         </td>
         <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=evan523"/></td>
     </tr>
-        <tr>
-        <td style="text-align:center">
-			<a href="https://github.com/kimingu7">
-				<img src="https://avatars.githubusercontent.com/u/122415709?v=4" style="width:150px; height:150px;">
-			</a>
-		</td>
-    	<td>김민구</td>
-		<td>
-            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
-        	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-        </td>
-        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrns"/></td>
-    </tr>
 </table>
+
 
 
 :red_circle: 현재 미참여
@@ -133,7 +121,21 @@
         </td>
         <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang"/></td>
     </tr>
+            <tr>
+        <td style="text-align:center">
+			<a href="https://github.com/kimingu7">
+				<img src="https://avatars.githubusercontent.com/u/122415709?v=4" style="width:150px; height:150px;">
+			</a>
+		</td>
+    	<td>김민구</td>
+		<td>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+        	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+        </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrns"/></td>
+    </tr>
 </table>
+
 
 
 <br/>
