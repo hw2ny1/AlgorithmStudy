@@ -65,13 +65,6 @@
         </td>
         <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=evan523"/></td>
     </tr>
-</table>
-
-
-
-:red_circle: 현재 미참여
-
-<table>
     <tr>
         <td style="text-align:center">
 			<a href="https://github.com/stubborngastropod">
@@ -84,6 +77,14 @@
         </td>
         <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stubborngastropod"/></td>
     </tr>
+</table>
+
+
+
+
+:red_circle: 현재 미참여
+
+<table>
     <tr>
         <td style="text-align:center">
 			<a href="https://github.com/balloooooon">
@@ -138,6 +139,7 @@
 
 
 
+
 <br/>
 
 
@@ -170,6 +172,8 @@
 | week_14 | 6.14 - 6.20 | :one: 나무제테크<br />:two: 뮤탈리스크<br />:three: A와B | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/><br><img height="16px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/><br><img height="16px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://www.acmicpc.net/problem/16235">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12869">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12904">:page_facing_up:</a> |
 | week_15 | 6.21 - 6.27 | :one: 화학<br />:two: 가스관<br />:three: 철도공사 | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://www.acmicpc.net/problem/4797">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/2931">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/23309">:page_facing_up:</a> |
 | week_16 | 6.28 - 7.4 | :one: 조명기구<br />:two: 이미지압축<br />:three: 대표선수 | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/15.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://www.acmicpc.net/problem/1625">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/1998">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/2461">:page_facing_up:</a> |
+| week_17 | 7.5 - 7.11 | :one: 새로운게임<br />:two: 경쟁적전염<br />:three: 오등큰수 | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://www.acmicpc.net/problem/17780">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/18405">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/17299">:page_facing_up:</a> |
+| week_18 | 7.12 - 7.18 | :one: 비행기 전시<br />:two: 연예인은 힘들어 | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://www.acmicpc.net/problem/25604">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/17270">:page_facing_up:</a> |
 
 <br/>
 
