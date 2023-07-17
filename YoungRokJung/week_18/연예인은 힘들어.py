@@ -27,7 +27,7 @@ def dijkstra(v,distance) :
     while q :
         dist,node = heapq.heappop(q)
 
-        if distance[node] > dist : continue
+        if distance[node] < dist : continue
 
         for v,d in graph[node] :
             if distance[v] > distance[node] + d :
