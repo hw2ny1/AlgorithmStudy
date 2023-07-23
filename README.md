@@ -40,20 +40,6 @@
     </tr>
     <tr>
         <td style="text-align:center">
-			<a href="https://github.com/SEYOUNGSHIN07312">
-				<img src="https://avatars.githubusercontent.com/u/122415827?v=4" style="width:150px; height:150px;">
-			</a>
-		</td>
-    	<td>신세영</td>
-		<td>
-            <img alt="Html" src ="https://img.shields.io/badge/God-FFCC33?&style=for-the-badge&logo=odysee&logoColor=white"/><br/>
-            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
-        	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-        </td>
-        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssy07312"/></td>
-    </tr>
-    <tr>
-        <td style="text-align:center">
 			<a href="https://github.com/yryryr96">
 				<img src="https://avatars.githubusercontent.com/u/122415720?v=4" style="width:150px; height:150px;">
 			</a>
@@ -78,6 +64,7 @@
         <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stubborngastropod"/></td>
     </tr>
 </table>
+
 
 
 
@@ -135,7 +122,22 @@
         </td>
         <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrns"/></td>
     </tr>
+    <tr>
+        <td style="text-align:center">
+			<a href="https://github.com/SEYOUNGSHIN07312">
+				<img src="https://avatars.githubusercontent.com/u/122415827?v=4" style="width:150px; height:150px;">
+			</a>
+		</td>
+    	<td>신세영</td>
+		<td>
+            <img alt="Html" src ="https://img.shields.io/badge/God-FFCC33?&style=for-the-badge&logo=odysee&logoColor=white"/><br/>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+        	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+        </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssy07312"/></td>
+    </tr>
 </table>
+
 
 
 
@@ -174,6 +176,8 @@
 | week_16 | 6.28 - 7.4 | :one: 조명기구<br />:two: 이미지압축<br />:three: 대표선수 | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/15.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="https://www.acmicpc.net/problem/1625">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/1998">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/2461">:page_facing_up:</a> |
 | week_17 | 7.5 - 7.11 | :one: 새로운게임<br />:two: 경쟁적전염<br />:three: 오등큰수 | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://www.acmicpc.net/problem/17780">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/18405">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/17299">:page_facing_up:</a> |
 | week_18 | 7.12 - 7.18 | :one: 비행기 전시<br />:two: 연예인은 힘들어 | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="https://www.acmicpc.net/problem/25604">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/17270">:page_facing_up:</a> |
+| week_19 | 7.19 - 7.25 | :one: 빌딩 높이<br />:two: 거울냥이는 죽어서 거울을 남긴다 | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/><br /><img height="16px" width="20px" src="https://static.solved.ac/tier_small/15.svg"/> | <a href="https://www.acmicpc.net/problem/12929">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/16226">:page_facing_up:</a> |
+| week_20 | 7.26 - | :one:<br />:two: |  |  |
 
 <br/>
 
