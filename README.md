@@ -65,8 +65,8 @@
     </tr>
     <tr>
         <td style="text-align:center">
-			<a href="https://github.com/stubborngastropod">
-				<img src="https://avatars.githubusercontent.com/u/116616569?v=4" style="width:150px; height:150px;">
+			<a href="https://github.com/LeeJ1nHyeong">
+				<img src="https://avatars.githubusercontent.com/u/122415954?v=4" style="width:150px; height:150px;">
 			</a>
 		</td>
     	<td>이진형</td>
