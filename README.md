@@ -63,6 +63,19 @@
         </td>
         <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stubborngastropod"/></td>
     </tr>
+    <tr>
+        <td style="text-align:center">
+			<a href="https://github.com/stubborngastropod">
+				<img src="https://avatars.githubusercontent.com/u/116616569?v=4" style="width:150px; height:150px;">
+			</a>
+		</td>
+    	<td>이진형</td>
+		<td>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+        </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgud4084"/></td>
+    </tr>
 </table>
 
 
